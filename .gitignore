@@ -1,0 +1,4 @@
+﻿localize-log.txt
+__pycache__/
+*.pyc
+Thumbs.db
